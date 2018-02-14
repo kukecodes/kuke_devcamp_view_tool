@@ -21,8 +21,9 @@ Or install it yourself as:
     $ gem install kuke_devcamp_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```
+@copyright = KukeDevcampViewTool::Renderer.copyright "Jörg", "All rights reserved"
+```
 
 ## Development
 
